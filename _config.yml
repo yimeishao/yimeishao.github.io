@@ -1,11 +1,11 @@
 # Site settings
-author: Maria Yimei Shao
-title: 
+author: yimei shao
+title: code commentary
 header-img: img/home-bg.png
 email: maria.yimei.shao@gmail.com
-copyright_name: Maria Yimei Shao
+copyright_name: yimei shao
 description: > # this means to ignore newlines until "baseurl:"
-  
+  hashing it out
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  yimeishao
