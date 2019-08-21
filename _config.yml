@@ -1,0 +1,20 @@
+# Site settings
+author: Maria Yimei Shao
+title: 
+header-img: img/home-bg.png
+email: maria.yimei.shao@gmail.com
+copyright_name: Maria Yimei Shao
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  yimeishao
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
