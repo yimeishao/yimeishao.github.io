@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Baby's First CLI Data Gem"
-date:       2020-02-12 05:24:04 +0000
+date:       2020-02-12 00:24:05 -0500
 permalink:  babys_first_cli_data_gem
 ---
 
@@ -17,9 +17,9 @@ After a week of consideration (which rapidly devolved into wondering whether I e
 
 The concept of Missed Connections is really romantic at heart. You were going about your day and you saw a beautiful stranger. You post about the encounter online with the hope that maybe they'll see it and that maybe they were going about their day when they saw a beautiful stranger (you). Because let's face it, you don't want to interrupt someone's space. What if they're not interested? What if they just wanted a quiet commute? What if you're not a beautiful stranger? You'd be just a creep. In my opinion, Craigslist is a place to practice consent and respect -- both parties have to actively look for each other. 
 
-Obviously, if you've ever been on Missed Connections, you know it doesn't always work like this. Instead, what you get is at worst a barrage of people's often disgusting, often fetishizing, inner thoughts. At best, a sad, truncated plea for intimacy. You wonder, "What beautiful stranger is going to read this and want to reach out?" 
+Obviously, if you've ever been on Missed Connections, you know it doesn't always work like this. Instead, what you get is at worst a barrage of people's often disgusting, often fetishizing, inner thoughts. At best, a sad, truncated plea for intimacy. You wonder, "What beautiful stranger is going to read this and want to connect?" 
 
-And so, I thought it would be fun to have them read as poems instead. Romance, baby! 
+And so, I thought it would be fun to have them read as poems instead. A collaborative message. Romance, baby! 
 
 My app collects all of the post titles from a given day and formats them into a single "poem." It now lives as a Ruby gem called bzn_poetry, which you can find [here](https://github.com/yimeishao/bzn_poetry). (My version pulls from Bozeman's Missed Connections, because that's where I currently live, but it's easily adaptable for other locations.)
 
