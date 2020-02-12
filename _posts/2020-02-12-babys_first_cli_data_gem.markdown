@@ -17,7 +17,7 @@ After a week of consideration (which rapidly devolved into wondering whether I e
 
 The concept of Missed Connections is really romantic at heart. You were going about your day and you saw a beautiful stranger. You post about the encounter online with the hope that maybe they'll see it and that maybe they were going about their day when they saw a beautiful stranger (you). Because let's face it, you don't want to interrupt someone's space. What if they're not interested? What if they just wanted a quiet commute? What if you're not a beautiful stranger? You'd be just a creep. In my opinion, Craigslist is a place to practice consent and respect -- both parties have to actively look for each other. 
 
-Obviously, if you've ever been on Missed Connections, you know it doesn't always work like this. Instead, what you get is at worst a barrage of people's often disgusting, often fetishizing, inner thoughts. At best, a sad, truncated plea for intimacy. You wonder, "What beautiful stranger is going to read this and want to connect?" 
+Obviously, if you've ever been on Missed Connections, you know it doesn't always work like this. Instead, what you get is, at worst, a barrage of people's often disgusting, often fetishizing, inner thoughts. At best, it's a sad, truncated plea for intimacy. You wonder, "What beautiful stranger is going to read this and want to connect?" 
 
 And so, I thought it would be fun to have them read as poems instead. A message created by collaborating different voices. Modern romance, baby! 
 
@@ -42,7 +42,7 @@ Exhausted and looking at my code through my tears, I began to ask questions like
 
 I had a meltdown, broke everything, and wrote two new classes: Dates and Poems. Dates would feed my CLI class the list of dates. Poems would format the posts. This was a bad idea. 
 
-I kept getting lost pushing and pulling hashes and arrays back and forth into instance variables. There was no "single source of truth." Each of my classes had their own idea of how to store and interpret the data -- which really begged the question, even have distinct classes at all? Why not just slap it all into one long running thread? 
+I kept getting lost pushing and pulling hashes and arrays back and forth into instance variables. There was no "single source of truth." Each of my classes had their own idea of how to store and interpret the data -- which really begged the question, why even have distinct classes at all? Why not just slap it all into one long running thread? 
 
 I needed to figure out how to organize and get back to the orignal plan: no big deal, super simple, three classes. Three classes, each clearly defined objects with their own attributes and behaviors, that can interact with each other. 
 
