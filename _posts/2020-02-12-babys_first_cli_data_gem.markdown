@@ -19,7 +19,7 @@ The concept of Missed Connections is really romantic at heart. You were going ab
 
 Obviously, if you've ever been on Missed Connections, you know it doesn't always work like this. Instead, what you get is at worst a barrage of people's often disgusting, often fetishizing, inner thoughts. At best, a sad, truncated plea for intimacy. You wonder, "What beautiful stranger is going to read this and want to connect?" 
 
-And so, I thought it would be fun to have them read as poems instead. A collaborative message. Romance, baby! 
+And so, I thought it would be fun to have them read as poems instead. A message created by collaborating different voices. Modern romance, baby! 
 
 My app collects all of the post titles from a given day and formats them into a single "poem." It now lives as a Ruby gem called bzn_poetry, which you can find [here](https://github.com/yimeishao/bzn_poetry). (My version pulls from Bozeman's Missed Connections, because that's where I currently live, but it's easily adaptable for other locations.)
 
