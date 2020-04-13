@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Building a CMS with Sinatra"
-date:       2020-04-13 02:16:57 +0000
+date:       2020-04-12 22:16:58 -0400
 permalink:  building_a_cms_with_sinatra
 ---
 
